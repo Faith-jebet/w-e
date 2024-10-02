@@ -12,7 +12,7 @@
 <h3>Kids Section</h3>
 <img src="https://github.com/samarpansarkar/E-Commerce-greatstack/blob/master/Capture4.JPG"/>
 <hr/>
-<h3>LogInn Section</h3>
+<h3>LogIn Section</h3>
 <img src="https://github.com/samarpansarkar/E-Commerce-greatstack/blob/master/Capture5.JPG"/>
 <hr/>
 <h3>Cart Section</h3>
